@@ -1,0 +1,24 @@
+{
+  "name": "weather-api-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vandhana03/Weather-API--by-Vandhana-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vandhana03/Weather-API--by-Vandhana-/issues"
+  },
+  "homepage": "https://github.com/vandhana03/Weather-API--by-Vandhana-#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
